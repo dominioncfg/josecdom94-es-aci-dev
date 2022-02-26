@@ -2,6 +2,10 @@
 
 Currently is not easy to use Elastic Search in Azure Container instance, this is a docker image prepared for that, but only for testing purposes, you should consider other alternatives for production environments.
 
+## Download the Image
+
+The image can be downloaded directly from [docker hub](https://hub.docker.com/r/josecdom94/es-aci-dev).
+
 ## Use with terraform
 
 Here is an example of how you can use this image with terraform:
